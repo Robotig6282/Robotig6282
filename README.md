@@ -3,7 +3,7 @@
 My name is Luis aka. Robotig from Lower Saxony in Germany. I am very active in system administration, but also in programming a little bit. I only learned programming because i was bored xD. Unfortunately i don't have many public repositories. Why do you ask - Because of the many skids. I'm a little paranoid because of that, but i try to make the best out of that :)
 
 ## Discord
-[![robotig6282's Discord status](https://dsc-readme.tsuni.dev/api/user/750682235371257946?theme=nitroDark&primaryColor=242424&accentColor=40C7E1&width=513)](https://github.com/TetraTsunami/discord-github-preview)
+![robotig6282's Discord status](https://dsc-readme.tsuni.dev/api/user/750682235371257946?theme=nitroDark&primaryColor=242424&accentColor=40C7E1&width=513)
 
 ## Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
