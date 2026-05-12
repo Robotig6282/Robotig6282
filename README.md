@@ -30,4 +30,4 @@ My name is Luis aka. Robotig from Lower Saxony in Germany. I am very active in s
 
 ![End-muhahaha](https://share.robotig.xyz/M2Vg5/xArGgy.png/raw)
 
-(Made by: Sybil_Introvert)
+(Art made by: Sybil_Introvert)
