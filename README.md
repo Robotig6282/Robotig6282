@@ -26,6 +26,7 @@ My name is Luis aka. Robotig from Lower Saxony in Germany. I am very active in s
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white)
 ![Bazzite](https://img.shields.io/badge/Bazzite-%2300AEEF.svg?style=flat&logo=fedora&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=flat&logo=proxmox&logoColor=white)
 
 
 ![End-muhahaha](https://share.robotig.xyz/M2Vg5/xArGgy.png/raw)
