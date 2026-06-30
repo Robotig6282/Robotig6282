@@ -29,6 +29,6 @@ My name is Luis aka. Robotig from Lower Saxony in Germany. I am very active in s
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=flat&logo=proxmox&logoColor=white)
 
 
-![End-muhahaha](https://share.robotig.xyz/M2Vg5/xArGgy.png/raw)
+![End-muhahaha](https://hentai.beer/u/DPZqz8.png)
 
 (Art made by: Sybil_Introvert)
